@@ -10,20 +10,8 @@
             "href": "/"
         },
         {
-            "title": "About",
-            "href": "/about"
-        },
-        {
-            "title": "Skills",
+            "title": "Tech Stack",
             "href": "/skills"
-        },
-        {
-            "title": "Education",
-            "href": "/education"
-        },
-        {
-            "title": "Experience",
-            "href": "/experience"
         },
         {
             "title": "Projects",
@@ -31,7 +19,7 @@
         },
         {
             "title": "Resume",
-            "href": "https://drive.google.com/file/d/13kaPsdMNDsM4LV9g7m5-E5PTildp-yYf/view?usp=sharing",
+            "href": "https://docs.google.com/document/d/1J-ka9EmZuezeZNRZ5ZivJ2spjpx0-WhQG6_OXchecMA/edit?usp=sharing",
             "type": "link"
         }
     ]

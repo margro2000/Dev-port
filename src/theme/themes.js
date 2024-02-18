@@ -39,7 +39,7 @@ export const darkTheme = {
     linkHoverColor: '#fefefe',
     linkActiveColor: '#fefefe',
   },
-  bsPrimaryVariant: 'dark',
-  bsSecondaryVariant: 'light',
+  bsPrimaryVariant: 'light',
+  bsSecondaryVariant: 'dark',
   socialIconBgColor: '#fefefe',
 };

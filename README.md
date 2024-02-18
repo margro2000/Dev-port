@@ -198,7 +198,7 @@ It has 2 keys, *logo* and *sections*.
 
 ```
 {
-    "name": "Your Name",
+    "name": "Margarita Groisman",
     "roles": ["a Developer", "a Freelancer"]
 }
 ```
@@ -216,7 +216,7 @@ It has 2 keys, *logo* and *sections*.
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/"
+            "href": "https://www.linkedin.com/in/margarita-groisman/"
         },
         {
             "network" : "github",
