@@ -33,8 +33,8 @@
         },
         {
             "image" : "images/projects/Project3.png",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "title": "Digital Twin Implementation",
+            "bodyText": "Customized a bot to respond like me to potential clients\n - Trained on emails and texts\n - Used Open AI to host the bot",
             "links": [
                 {
                     "text": "GitHub",
@@ -42,100 +42,39 @@
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
-            ]
-        },
-        {
-            "image" : "images/projects/Project4.png",
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
+                "Digital Twin",
+                "Chat Bot",
+                "Azure Open AI",
+                "Custom Training"
             ]
         },
         {
             "image" : "images/projects/Project5.png",
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
+            "title": "Allergen Detection App",
+            "bodyText": "Uses a Large Food Model to predict the likelihood of any given food, hackathon project",
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
+                "React",
+                "Python",
+                "Flask"            ]
         },
         {
             "image" : "images/projects/Project6.png",
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
-            ],
+            "title": "InPerson Swipe Social App",
+            "bodyText": "- React Native Social App\n - Swipe on events your invited to\n - Data stored in **Firebase**",
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
+                "React Native",
+                "App Development",
+                "Social"
             ]
         },
         {
             "image" : "images/projects/Project7.png",
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
+            "title": "Learn.AI",
+            "bodyText": "- LearnAI, Save and Share AI Generated Courses \n - Uses **mock JSON server** to get, add, delete or update tasks.",
             "tags" : [
                 "TypeScript",
-                "Angular 12",
+                "Axure Open AI",
                 "JavaScript"
-            ]
-        },
-        {
-            "image" : "images/projects/Project8.png",
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
             ]
         }
     ]
