@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_app=self.webpackChunkportfolio_app||[]).push([[648],{9648:(p,e,o)=>{p.exports=o.p+"static/media/FrontPageImg.d229267cfe4492182dc0.png"}}]);

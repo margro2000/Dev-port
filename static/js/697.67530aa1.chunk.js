@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_app=self.webpackChunkportfolio_app||[]).push([[697,648],{8697:(t,e,p)=>{p.r(e),p.d(e,{default:()=>o});p(5043);var r=p(9648),a=p(579);const o=function(){return(0,a.jsx)("div",{children:(0,a.jsx)("img",{src:r,alt:"Front Page"})})}},9648:(t,e,p)=>{t.exports=p.p+"static/media/FrontPageImg.d229267cfe4492182dc0.png"}}]);
+//# sourceMappingURL=697.67530aa1.chunk.js.map

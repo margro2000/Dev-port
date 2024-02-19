@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/margarita-groisman/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/margro2000"
+        },
+        {
+            "network" : "email",
+            "href": "m.groisman00@gmail.com"
+        }
+    ]
+}

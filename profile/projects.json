@@ -1,0 +1,81 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/Project1.png",
+            "title": "AI Learning Platform",
+            "bodyText": "- Design Your Own Courses Instantly\n -  React and Flask, connects to Open AI and uses RAG",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/margro2000/Learn"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Python",
+                "JavaScript",
+                "AI Infrastructure",
+                "RAG"
+            ]
+        },
+        {
+            "image" : "images/projects/Project2.png",
+            "title": "LLMs For All",
+            "bodyText": "Custom chat bot creator released to all Microsoft Employees. Existed before Microsoft Studio Copilot was released as our external product\n - Led initial hackathon project, the built out with team\n - Ongoing support for teams using product",
+            "tags" : [
+                "Azure Open AI",
+                "RAG",
+                "MongoDB",
+                "React",
+                "TypeScript",
+                "Python"
+            ]
+        },
+        {
+            "image" : "images/projects/Project3.png",
+            "title": "Digital Twin Implementation",
+            "bodyText": "Customized a bot to respond like me to potential clients\n - Trained on emails and texts\n - Used Open AI to host the bot",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                }
+            ],
+            "tags" : [
+                "Digital Twin",
+                "Chat Bot",
+                "Azure Open AI",
+                "Custom Training"
+            ]
+        },
+        {
+            "image" : "images/projects/Project5.png",
+            "title": "Allergen Detection App",
+            "bodyText": "Uses a Large Food Model to predict the likelihood of any given food, hackathon project",
+            "tags" : [
+                "React",
+                "Python",
+                "Flask"            ]
+        },
+        {
+            "image" : "images/projects/Project6.png",
+            "title": "InPerson Swipe Social App",
+            "bodyText": "- React Native Social App\n - Swipe on events your invited to\n - Data stored in **Firebase**",
+            "tags" : [
+                "React Native",
+                "App Development",
+                "Social"
+            ]
+        },
+        {
+            "image" : "images/projects/Project7.png",
+            "title": "Learn.AI",
+            "bodyText": "- LearnAI, Save and Share AI Generated Courses \n - Uses **mock JSON server** to get, add, delete or update tasks.",
+            "tags" : [
+                "TypeScript",
+                "Axure Open AI",
+                "JavaScript"
+            ]
+        }
+    ]
+}
